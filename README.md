@@ -1,8 +1,6 @@
-# 
-Calculadora que somente 2 números que você digitar no terminal
 <h1>Soma 2 numeros Terminal - Java 🧮</h1>
 
-<h2>Soma de 2 numeros no terminal feita em JAVA</h2>
+<h2>Soma de 2 numeros no terminal feita em JAVA </h2>
 
 
 <img alt="Foto do codigo imc" src="./images/images1.jpg">
